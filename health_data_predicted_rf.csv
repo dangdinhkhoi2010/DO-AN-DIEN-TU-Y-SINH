@@ -1,0 +1,420 @@
+HeartRate,SpO2,PredictedHealthStatus
+0.0,0.0,Undetermined
+0.0,0.0,Undetermined
+0.0,0.0,Undetermined
+22.61,0.0,Undetermined
+37.48,0.0,Undetermined
+63.06,94.0,HR: Good - SpO2: Decreased
+66.03,94.0,HR: Above Average - SpO2: Decreased
+67.31,96.0,HR: Above Average - SpO2: Tolerable
+70.76,96.0,HR: Average - SpO2: Tolerable
+70.16,96.0,HR: Average - SpO2: Tolerable
+68.53,97.0,HR: Above Average - SpO2: Tolerable
+66.07,97.0,HR: Above Average - SpO2: Tolerable
+65.99,97.0,HR: Above Average - SpO2: Tolerable
+65.44,97.0,HR: Good - SpO2: Tolerable
+64.46,97.0,HR: Good - SpO2: Tolerable
+64.96,97.0,HR: Good - SpO2: Tolerable
+68.69,97.0,HR: Above Average - SpO2: Tolerable
+67.05,97.0,HR: Above Average - SpO2: Tolerable
+65.55,97.0,HR: Above Average - SpO2: Tolerable
+65.35,97.0,HR: Good - SpO2: Tolerable
+67.07,97.0,HR: Above Average - SpO2: Tolerable
+67.32,97.0,HR: Above Average - SpO2: Tolerable
+65.46,97.0,HR: Good - SpO2: Tolerable
+68.49,97.0,HR: Above Average - SpO2: Tolerable
+67.38,97.0,HR: Above Average - SpO2: Tolerable
+65.63,97.0,HR: Above Average - SpO2: Tolerable
+64.58,97.0,HR: Good - SpO2: Tolerable
+66.69,97.0,HR: Above Average - SpO2: Tolerable
+68.04,97.0,HR: Above Average - SpO2: Tolerable
+67.25,97.0,HR: Above Average - SpO2: Tolerable
+68.59,97.0,HR: Above Average - SpO2: Tolerable
+68.86,97.0,HR: Above Average - SpO2: Tolerable
+67.08,97.0,HR: Above Average - SpO2: Tolerable
+68.2,97.0,HR: Above Average - SpO2: Tolerable
+68.66,97.0,HR: Above Average - SpO2: Tolerable
+70.34,97.0,HR: Average - SpO2: Tolerable
+70.49,97.0,HR: Average - SpO2: Tolerable
+73.97,97.0,HR: Below Average - SpO2: Tolerable
+71.39,97.0,HR: Average - SpO2: Tolerable
+68.01,97.0,HR: Above Average - SpO2: Tolerable
+66.79,97.0,HR: Above Average - SpO2: Tolerable
+69.5,97.0,HR: Above Average - SpO2: Tolerable
+66.87,97.0,HR: Above Average - SpO2: Tolerable
+65.05,97.0,HR: Good - SpO2: Tolerable
+63.1,97.0,HR: Good - SpO2: Tolerable
+69.56,97.0,HR: Average - SpO2: Tolerable
+69.25,97.0,HR: Above Average - SpO2: Tolerable
+67.68,97.0,HR: Above Average - SpO2: Tolerable
+65.74,97.0,HR: Above Average - SpO2: Tolerable
+68.15,97.0,HR: Above Average - SpO2: Tolerable
+65.92,97.0,HR: Above Average - SpO2: Tolerable
+65.07,97.0,HR: Good - SpO2: Tolerable
+64.74,97.0,HR: Good - SpO2: Tolerable
+74.58,97.0,HR: Below Average - SpO2: Tolerable
+72.66,97.0,HR: Average - SpO2: Tolerable
+74.05,97.0,HR: Below Average - SpO2: Tolerable
+72.51,97.0,HR: Average - SpO2: Tolerable
+68.89,97.0,HR: Above Average - SpO2: Tolerable
+69.53,97.0,HR: Average - SpO2: Tolerable
+68.29,97.0,HR: Above Average - SpO2: Tolerable
+67.76,97.0,HR: Above Average - SpO2: Tolerable
+69.92,97.0,HR: Average - SpO2: Tolerable
+74.56,97.0,HR: Below Average - SpO2: Tolerable
+71.91,97.0,HR: Average - SpO2: Tolerable
+69.63,97.0,HR: Average - SpO2: Tolerable
+67.36,97.0,HR: Above Average - SpO2: Tolerable
+69.74,97.0,HR: Average - SpO2: Tolerable
+70.3,97.0,HR: Average - SpO2: Tolerable
+69.01,97.0,HR: Above Average - SpO2: Tolerable
+67.13,97.0,HR: Above Average - SpO2: Tolerable
+70.13,97.0,HR: Average - SpO2: Tolerable
+67.55,97.0,HR: Above Average - SpO2: Tolerable
+66.57,97.0,HR: Above Average - SpO2: Tolerable
+68.5,97.0,HR: Above Average - SpO2: Tolerable
+70.23,97.0,HR: Average - SpO2: Tolerable
+67.13,97.0,HR: Above Average - SpO2: Tolerable
+64.69,97.0,HR: Good - SpO2: Tolerable
+65.91,97.0,HR: Above Average - SpO2: Tolerable
+66.46,97.0,HR: Above Average - SpO2: Tolerable
+63.21,97.0,HR: Good - SpO2: Tolerable
+64.44,97.0,HR: Good - SpO2: Tolerable
+66.64,97.0,HR: Above Average - SpO2: Tolerable
+64.5,97.0,HR: Good - SpO2: Tolerable
+65.78,97.0,HR: Above Average - SpO2: Tolerable
+69.06,97.0,HR: Above Average - SpO2: Tolerable
+70.02,97.0,HR: Average - SpO2: Tolerable
+67.97,97.0,HR: Above Average - SpO2: Tolerable
+71.66,97.0,HR: Average - SpO2: Tolerable
+70.51,97.0,HR: Average - SpO2: Tolerable
+68.62,97.0,HR: Above Average - SpO2: Tolerable
+68.4,97.0,HR: Above Average - SpO2: Tolerable
+71.7,97.0,HR: Average - SpO2: Tolerable
+69.87,97.0,HR: Average - SpO2: Tolerable
+71.87,97.0,HR: Average - SpO2: Tolerable
+72.12,97.0,HR: Average - SpO2: Tolerable
+69.7,97.0,HR: Average - SpO2: Tolerable
+68.78,97.0,HR: Above Average - SpO2: Tolerable
+71.4,97.0,HR: Average - SpO2: Tolerable
+69.06,97.0,HR: Above Average - SpO2: Tolerable
+68.06,97.0,HR: Above Average - SpO2: Tolerable
+69.6,97.0,HR: Average - SpO2: Tolerable
+66.9,97.0,HR: Above Average - SpO2: Tolerable
+65.02,97.0,HR: Good - SpO2: Tolerable
+64.72,97.0,HR: Good - SpO2: Tolerable
+65.49,97.0,HR: Good - SpO2: Tolerable
+63.26,97.0,HR: Good - SpO2: Tolerable
+62.41,97.0,HR: Good - SpO2: Tolerable
+62.86,97.0,HR: Good - SpO2: Tolerable
+65.95,97.0,HR: Above Average - SpO2: Tolerable
+63.07,97.0,HR: Good - SpO2: Tolerable
+63.12,97.0,HR: Good - SpO2: Tolerable
+66.91,97.0,HR: Above Average - SpO2: Tolerable
+66.32,97.0,HR: Above Average - SpO2: Tolerable
+64.39,97.0,HR: Good - SpO2: Tolerable
+62.84,97.0,HR: Good - SpO2: Tolerable
+65.55,97.0,HR: Above Average - SpO2: Tolerable
+68.96,97.0,HR: Above Average - SpO2: Tolerable
+66.22,97.0,HR: Above Average - SpO2: Tolerable
+65.62,97.0,HR: Above Average - SpO2: Tolerable
+66.73,97.0,HR: Above Average - SpO2: Tolerable
+65.8,97.0,HR: Above Average - SpO2: Tolerable
+65.02,97.0,HR: Good - SpO2: Tolerable
+68.77,97.0,HR: Above Average - SpO2: Tolerable
+67.04,97.0,HR: Above Average - SpO2: Tolerable
+66.37,97.0,HR: Above Average - SpO2: Tolerable
+70.79,97.0,HR: Average - SpO2: Tolerable
+70.17,97.0,HR: Average - SpO2: Tolerable
+70.34,97.0,HR: Average - SpO2: Tolerable
+74.15,97.0,HR: Below Average - SpO2: Tolerable
+69.52,97.0,HR: Average - SpO2: Tolerable
+66.87,97.0,HR: Above Average - SpO2: Tolerable
+68.11,97.0,HR: Above Average - SpO2: Tolerable
+68.62,97.0,HR: Above Average - SpO2: Tolerable
+66.98,97.0,HR: Above Average - SpO2: Tolerable
+65.1,97.0,HR: Good - SpO2: Tolerable
+68.79,97.0,HR: Above Average - SpO2: Tolerable
+68.89,97.0,HR: Above Average - SpO2: Tolerable
+68.0,97.0,HR: Above Average - SpO2: Tolerable
+66.79,97.0,HR: Above Average - SpO2: Tolerable
+69.02,97.0,HR: Above Average - SpO2: Tolerable
+68.99,97.0,HR: Above Average - SpO2: Tolerable
+68.04,97.0,HR: Above Average - SpO2: Tolerable
+70.81,97.0,HR: Average - SpO2: Tolerable
+69.21,97.0,HR: Above Average - SpO2: Tolerable
+66.76,97.0,HR: Above Average - SpO2: Tolerable
+68.53,97.0,HR: Above Average - SpO2: Tolerable
+67.45,97.0,HR: Above Average - SpO2: Tolerable
+66.09,97.0,HR: Above Average - SpO2: Tolerable
+66.0,97.0,HR: Above Average - SpO2: Tolerable
+67.59,97.0,HR: Above Average - SpO2: Tolerable
+64.44,97.0,HR: Good - SpO2: Tolerable
+64.07,97.0,HR: Good - SpO2: Tolerable
+68.29,97.0,HR: Above Average - SpO2: Tolerable
+65.54,97.0,HR: Above Average - SpO2: Tolerable
+64.55,97.0,HR: Good - SpO2: Tolerable
+66.68,97.0,HR: Above Average - SpO2: Tolerable
+67.12,97.0,HR: Above Average - SpO2: Tolerable
+65.53,97.0,HR: Above Average - SpO2: Tolerable
+64.96,97.0,HR: Good - SpO2: Tolerable
+67.76,97.0,HR: Above Average - SpO2: Tolerable
+65.35,97.0,HR: Good - SpO2: Tolerable
+65.54,97.0,HR: Above Average - SpO2: Tolerable
+65.34,97.0,HR: Good - SpO2: Tolerable
+64.01,97.0,HR: Good - SpO2: Tolerable
+65.15,97.0,HR: Good - SpO2: Tolerable
+67.85,97.0,HR: Above Average - SpO2: Tolerable
+66.29,97.0,HR: Above Average - SpO2: Tolerable
+65.64,97.0,HR: Above Average - SpO2: Tolerable
+68.06,97.0,HR: Above Average - SpO2: Tolerable
+67.67,97.0,HR: Above Average - SpO2: Tolerable
+63.65,97.0,HR: Good - SpO2: Tolerable
+62.21,97.0,HR: Good - SpO2: Tolerable
+62.3,97.0,HR: Good - SpO2: Tolerable
+62.03,97.0,HR: Good - SpO2: Tolerable
+63.95,97.0,HR: Good - SpO2: Tolerable
+65.12,97.0,HR: Good - SpO2: Tolerable
+65.61,97.0,HR: Above Average - SpO2: Tolerable
+65.37,97.0,HR: Good - SpO2: Tolerable
+69.35,97.0,HR: Above Average - SpO2: Tolerable
+67.26,97.0,HR: Above Average - SpO2: Tolerable
+66.5,97.0,HR: Above Average - SpO2: Tolerable
+67.96,97.0,HR: Above Average - SpO2: Tolerable
+66.29,97.0,HR: Above Average - SpO2: Tolerable
+64.54,97.0,HR: Good - SpO2: Tolerable
+68.04,97.0,HR: Above Average - SpO2: Tolerable
+67.71,97.0,HR: Above Average - SpO2: Tolerable
+67.53,97.0,HR: Above Average - SpO2: Tolerable
+67.92,97.0,HR: Above Average - SpO2: Tolerable
+69.02,97.0,HR: Above Average - SpO2: Tolerable
+68.99,97.0,HR: Above Average - SpO2: Tolerable
+65.37,97.0,HR: Good - SpO2: Tolerable
+66.3,97.0,HR: Above Average - SpO2: Tolerable
+64.38,97.0,HR: Good - SpO2: Tolerable
+62.84,97.0,HR: Good - SpO2: Tolerable
+62.67,97.0,HR: Good - SpO2: Tolerable
+64.18,97.0,HR: Good - SpO2: Tolerable
+62.76,97.0,HR: Good - SpO2: Tolerable
+63.0,97.0,HR: Good - SpO2: Tolerable
+66.45,97.0,HR: Above Average - SpO2: Tolerable
+66.58,97.0,HR: Above Average - SpO2: Tolerable
+65.37,97.0,HR: Good - SpO2: Tolerable
+64.85,97.0,HR: Good - SpO2: Tolerable
+67.26,97.0,HR: Above Average - SpO2: Tolerable
+66.46,97.0,HR: Above Average - SpO2: Tolerable
+63.84,97.0,HR: Good - SpO2: Tolerable
+65.51,97.0,HR: Above Average - SpO2: Tolerable
+64.08,97.0,HR: Good - SpO2: Tolerable
+61.57,97.0,HR: Good - SpO2: Tolerable
+62.12,97.0,HR: Good - SpO2: Tolerable
+63.98,97.0,HR: Good - SpO2: Tolerable
+63.89,97.0,HR: Good - SpO2: Tolerable
+62.26,97.0,HR: Good - SpO2: Tolerable
+62.8,97.0,HR: Good - SpO2: Tolerable
+65.92,97.0,HR: Above Average - SpO2: Tolerable
+65.11,97.0,HR: Good - SpO2: Tolerable
+65.18,97.0,HR: Good - SpO2: Tolerable
+64.78,97.0,HR: Good - SpO2: Tolerable
+66.8,97.0,HR: Above Average - SpO2: Tolerable
+65.03,97.0,HR: Good - SpO2: Tolerable
+65.14,97.0,HR: Good - SpO2: Tolerable
+67.38,97.0,HR: Above Average - SpO2: Tolerable
+65.63,97.0,HR: Above Average - SpO2: Tolerable
+64.96,97.0,HR: Good - SpO2: Tolerable
+68.22,97.0,HR: Above Average - SpO2: Tolerable
+65.95,97.0,HR: Above Average - SpO2: Tolerable
+64.29,97.0,HR: Good - SpO2: Tolerable
+62.81,97.0,HR: Good - SpO2: Tolerable
+67.25,97.0,HR: Above Average - SpO2: Tolerable
+64.32,97.0,HR: Good - SpO2: Tolerable
+62.9,97.0,HR: Good - SpO2: Tolerable
+64.69,97.0,HR: Good - SpO2: Tolerable
+62.56,97.0,HR: Good - SpO2: Tolerable
+60.26,97.0,HR: Excellent - SpO2: Tolerable
+61.59,97.0,HR: Good - SpO2: Tolerable
+65.81,97.0,HR: Above Average - SpO2: Tolerable
+66.76,97.0,HR: Above Average - SpO2: Tolerable
+66.31,97.0,HR: Above Average - SpO2: Tolerable
+66.08,97.0,HR: Above Average - SpO2: Tolerable
+71.16,97.0,HR: Average - SpO2: Tolerable
+68.27,97.0,HR: Above Average - SpO2: Tolerable
+68.22,97.0,HR: Above Average - SpO2: Tolerable
+71.1,97.0,HR: Average - SpO2: Tolerable
+71.81,97.0,HR: Average - SpO2: Tolerable
+69.59,97.0,HR: Average - SpO2: Tolerable
+67.85,97.0,HR: Above Average - SpO2: Tolerable
+69.95,97.0,HR: Average - SpO2: Tolerable
+64.82,97.0,HR: Good - SpO2: Tolerable
+64.64,97.0,HR: Good - SpO2: Tolerable
+66.76,97.0,HR: Above Average - SpO2: Tolerable
+66.71,97.0,HR: Above Average - SpO2: Tolerable
+66.24,97.0,HR: Above Average - SpO2: Tolerable
+67.39,97.0,HR: Above Average - SpO2: Tolerable
+70.74,97.0,HR: Average - SpO2: Tolerable
+73.04,97.0,HR: Average - SpO2: Tolerable
+72.59,97.0,HR: Average - SpO2: Tolerable
+73.47,97.0,HR: Average - SpO2: Tolerable
+71.2,97.0,HR: Average - SpO2: Tolerable
+69.84,97.0,HR: Average - SpO2: Tolerable
+70.72,97.0,HR: Average - SpO2: Tolerable
+70.14,97.0,HR: Average - SpO2: Tolerable
+68.02,97.0,HR: Above Average - SpO2: Tolerable
+68.12,97.0,HR: Above Average - SpO2: Tolerable
+70.56,97.0,HR: Average - SpO2: Tolerable
+69.59,97.0,HR: Average - SpO2: Tolerable
+68.27,97.0,HR: Above Average - SpO2: Tolerable
+72.76,97.0,HR: Average - SpO2: Tolerable
+70.99,97.0,HR: Average - SpO2: Tolerable
+70.25,97.0,HR: Average - SpO2: Tolerable
+69.96,97.0,HR: Average - SpO2: Tolerable
+70.83,97.0,HR: Average - SpO2: Tolerable
+71.7,97.0,HR: Average - SpO2: Tolerable
+68.35,97.0,HR: Above Average - SpO2: Tolerable
+69.67,97.0,HR: Average - SpO2: Tolerable
+70.77,97.0,HR: Average - SpO2: Tolerable
+70.66,97.0,HR: Average - SpO2: Tolerable
+68.68,97.0,HR: Above Average - SpO2: Tolerable
+71.79,97.0,HR: Average - SpO2: Tolerable
+69.63,97.0,HR: Average - SpO2: Tolerable
+66.91,97.0,HR: Above Average - SpO2: Tolerable
+69.07,97.0,HR: Above Average - SpO2: Tolerable
+70.47,97.0,HR: Average - SpO2: Tolerable
+67.68,97.0,HR: Above Average - SpO2: Tolerable
+70.92,97.0,HR: Average - SpO2: Tolerable
+68.3,97.0,HR: Above Average - SpO2: Tolerable
+64.92,97.0,HR: Good - SpO2: Tolerable
+68.21,97.0,HR: Above Average - SpO2: Tolerable
+71.1,97.0,HR: Average - SpO2: Tolerable
+69.32,97.0,HR: Above Average - SpO2: Tolerable
+67.75,97.0,HR: Above Average - SpO2: Tolerable
+66.65,97.0,HR: Above Average - SpO2: Tolerable
+71.22,97.0,HR: Average - SpO2: Tolerable
+67.49,97.0,HR: Above Average - SpO2: Tolerable
+66.11,97.0,HR: Above Average - SpO2: Tolerable
+68.3,97.0,HR: Above Average - SpO2: Tolerable
+69.17,97.0,HR: Above Average - SpO2: Tolerable
+66.74,97.0,HR: Above Average - SpO2: Tolerable
+64.96,97.0,HR: Good - SpO2: Tolerable
+68.23,97.0,HR: Above Average - SpO2: Tolerable
+69.37,97.0,HR: Above Average - SpO2: Tolerable
+68.65,97.0,HR: Above Average - SpO2: Tolerable
+70.79,97.0,HR: Average - SpO2: Tolerable
+74.35,97.0,HR: Below Average - SpO2: Tolerable
+72.04,97.0,HR: Average - SpO2: Tolerable
+67.79,97.0,HR: Above Average - SpO2: Tolerable
+66.27,97.0,HR: Above Average - SpO2: Tolerable
+70.45,97.0,HR: Average - SpO2: Tolerable
+69.55,97.0,HR: Average - SpO2: Tolerable
+68.25,97.0,HR: Above Average - SpO2: Tolerable
+68.68,97.0,HR: Above Average - SpO2: Tolerable
+68.38,97.0,HR: Above Average - SpO2: Tolerable
+70.23,97.0,HR: Average - SpO2: Tolerable
+67.03,97.0,HR: Above Average - SpO2: Tolerable
+63.83,97.0,HR: Good - SpO2: Tolerable
+65.07,97.0,HR: Good - SpO2: Tolerable
+67.86,97.0,HR: Above Average - SpO2: Tolerable
+65.38,97.0,HR: Good - SpO2: Tolerable
+66.15,97.0,HR: Above Average - SpO2: Tolerable
+65.16,97.0,HR: Good - SpO2: Tolerable
+68.78,97.0,HR: Above Average - SpO2: Tolerable
+70.4,97.0,HR: Average - SpO2: Tolerable
+67.69,97.0,HR: Above Average - SpO2: Tolerable
+66.63,97.0,HR: Above Average - SpO2: Tolerable
+69.43,97.0,HR: Above Average - SpO2: Tolerable
+71.12,97.0,HR: Average - SpO2: Tolerable
+69.33,97.0,HR: Above Average - SpO2: Tolerable
+65.1,97.0,HR: Good - SpO2: Tolerable
+64.75,97.0,HR: Good - SpO2: Tolerable
+63.79,97.0,HR: Good - SpO2: Tolerable
+71.08,97.0,HR: Average - SpO2: Tolerable
+68.88,97.0,HR: Above Average - SpO2: Tolerable
+64.91,97.0,HR: Good - SpO2: Tolerable
+63.85,97.0,HR: Good - SpO2: Tolerable
+68.19,97.0,HR: Above Average - SpO2: Tolerable
+68.65,97.0,HR: Above Average - SpO2: Tolerable
+68.37,97.0,HR: Above Average - SpO2: Tolerable
+72.38,97.0,HR: Average - SpO2: Tolerable
+75.61,97.0,HR: Below Average - SpO2: Tolerable
+74.13,97.0,HR: Below Average - SpO2: Tolerable
+72.48,97.0,HR: Average - SpO2: Tolerable
+68.88,97.0,HR: Above Average - SpO2: Tolerable
+74.55,97.0,HR: Below Average - SpO2: Tolerable
+72.12,97.0,HR: Average - SpO2: Tolerable
+69.22,97.0,HR: Above Average - SpO2: Tolerable
+67.67,97.0,HR: Above Average - SpO2: Tolerable
+71.37,97.0,HR: Average - SpO2: Tolerable
+71.41,97.0,HR: Average - SpO2: Tolerable
+68.54,97.0,HR: Above Average - SpO2: Tolerable
+71.76,97.0,HR: Average - SpO2: Tolerable
+72.07,97.0,HR: Average - SpO2: Tolerable
+70.18,97.0,HR: Average - SpO2: Tolerable
+69.44,97.0,HR: Above Average - SpO2: Tolerable
+70.16,97.0,HR: Average - SpO2: Tolerable
+67.56,97.0,HR: Above Average - SpO2: Tolerable
+67.47,97.0,HR: Above Average - SpO2: Tolerable
+69.79,97.0,HR: Average - SpO2: Tolerable
+71.78,97.0,HR: Average - SpO2: Tolerable
+71.06,97.0,HR: Average - SpO2: Tolerable
+74.58,97.0,HR: Below Average - SpO2: Tolerable
+76.55,97.0,HR: Below Average - SpO2: Tolerable
+75.61,97.0,HR: Below Average - SpO2: Tolerable
+74.13,97.0,HR: Below Average - SpO2: Tolerable
+74.64,97.0,HR: Below Average - SpO2: Tolerable
+73.8,97.0,HR: Below Average - SpO2: Tolerable
+70.32,97.0,HR: Average - SpO2: Tolerable
+69.02,97.0,HR: Above Average - SpO2: Tolerable
+70.95,97.0,HR: Average - SpO2: Tolerable
+70.73,97.0,HR: Average - SpO2: Tolerable
+68.7,97.0,HR: Above Average - SpO2: Tolerable
+65.17,97.0,HR: Good - SpO2: Tolerable
+67.39,97.0,HR: Above Average - SpO2: Tolerable
+69.76,97.0,HR: Average - SpO2: Tolerable
+67.41,97.0,HR: Above Average - SpO2: Tolerable
+66.08,97.0,HR: Above Average - SpO2: Tolerable
+66.04,97.0,HR: Above Average - SpO2: Tolerable
+70.14,97.0,HR: Average - SpO2: Tolerable
+71.12,97.0,HR: Average - SpO2: Tolerable
+68.85,97.0,HR: Above Average - SpO2: Tolerable
+68.45,97.0,HR: Above Average - SpO2: Tolerable
+69.76,97.0,HR: Average - SpO2: Tolerable
+66.12,97.0,HR: Above Average - SpO2: Tolerable
+65.58,97.0,HR: Above Average - SpO2: Tolerable
+65.36,97.0,HR: Good - SpO2: Tolerable
+69.41,97.0,HR: Above Average - SpO2: Tolerable
+69.14,97.0,HR: Above Average - SpO2: Tolerable
+68.14,97.0,HR: Above Average - SpO2: Tolerable
+73.15,97.0,HR: Average - SpO2: Tolerable
+74.25,97.0,HR: Below Average - SpO2: Tolerable
+70.75,97.0,HR: Average - SpO2: Tolerable
+72.71,97.0,HR: Average - SpO2: Tolerable
+72.46,96.0,HR: Average - SpO2: Tolerable
+71.32,96.0,HR: Average - SpO2: Tolerable
+68.5,96.0,HR: Above Average - SpO2: Tolerable
+72.59,97.0,HR: Average - SpO2: Tolerable
+69.39,97.0,HR: Above Average - SpO2: Tolerable
+69.62,97.0,HR: Average - SpO2: Tolerable
+72.22,97.0,HR: Average - SpO2: Tolerable
+73.32,97.0,HR: Average - SpO2: Tolerable
+71.71,97.0,HR: Average - SpO2: Tolerable
+73.15,97.0,HR: Average - SpO2: Tolerable
+80.85,97.0,HR: Below Average - SpO2: Tolerable
+85.04,97.0,HR: Bad - SpO2: Tolerable
+79.98,97.0,HR: Below Average - SpO2: Tolerable
+79.99,97.0,HR: Below Average - SpO2: Tolerable
+77.52,97.0,HR: Below Average - SpO2: Tolerable
+71.53,97.0,HR: Average - SpO2: Tolerable
+74.12,97.0,HR: Below Average - SpO2: Tolerable
+76.35,97.0,HR: Below Average - SpO2: Tolerable
+75.54,97.0,HR: Below Average - SpO2: Tolerable
+71.45,97.0,HR: Average - SpO2: Tolerable
+70.43,97.0,HR: Average - SpO2: Tolerable
+46.34,97.0,Undetermined
+46.34,97.0,Undetermined
+0.0,0.0,Undetermined
+0.0,0.0,Undetermined
+0.0,0.0,Undetermined
+0.0,0.0,Undetermined
+0.0,0.0,Undetermined
+0.0,0.0,Undetermined
+0.0,0.0,Undetermined
