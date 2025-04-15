@@ -10,7 +10,7 @@
 - health_data_predicted_rf.csv: Output file containing health status predictions made by the Random Forest model.
 
 >> Objectives
-Develop a basic health monitoring system to measure and display:
+- Develop a basic health monitoring system to measure and display:
 + Heart Rate
 + Blood Oxygen Level (SpO2)
 + Data will be displayed in real time on an OLED screen, sent to the Blynk IoT and transmitted via Serial (COM port) for Python + AI processing
@@ -30,17 +30,16 @@ Develop a basic health monitoring system to measure and display:
 + GitHub:	Manages source code and project documentation
 
 >> Hardware Connections
-MAX30100       -> ESP8266 NodeMCU
-VIN            -> 3V3
-GND            -> GND
-SCL            -> D1 (GPIO5)
-SDA            -> D2 (GPIO4)
-
-OLED SSD1306   -> ESP8266 NodeMCU
-VCC            -> 3V3
-GND            -> GND
-SCL            -> D1 (GPIO5)
-SDA            -> D2 (GPIO4)
+- MAX30100       -> ESP8266 NodeMCU
+- VIN            -> 3V3
+- GND            -> GND
+- SCL            -> D1 (GPIO5)
+- SDA            -> D2 (GPIO4)
+- OLED SSD1306   -> ESP8266 NodeMCU
+- VCC            -> 3V3
+- GND            -> GND
+- SCL            -> D1 (GPIO5)
+- SDA            -> D2 (GPIO4)
 (The OLED and MAX30100 share the same I2C bus, so both are connected to D1 (SCL) and D2 (SDA))
 
 >> Important Notes When Running
